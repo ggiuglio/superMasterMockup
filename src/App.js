@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Main from './components/main/main';
-import ProjectData from './data-mock-up/data-mock-up2';
+import ProjectData from './data-mock-up/data-mock-up';
 
 class App extends Component {
   render() {
