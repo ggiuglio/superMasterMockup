@@ -1,0 +1,12 @@
+.wavesContainer {
+    display: inline-flex;
+}
+.projectTitle {
+    width: 100%;
+    min-width: 100vw;
+    text-align: center;
+    background-color: #cccccc;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}

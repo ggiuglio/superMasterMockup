@@ -1,0 +1,65 @@
+.legenda {
+    width: 80%;
+    margin: 0 10% 20px 10%;
+    padding: 10px;
+    text-align: left;
+    border: 2px solid  black;
+}
+
+.legendaTitle {
+    margin: 20px 0 5px 10%;
+    text-align: left;
+}
+
+.legendaContent {
+    display: inline-flex;
+    width: 100%;
+}
+
+.legendaColumn {
+    width: 50%;
+    text-align: center;
+}
+.legendaColumnContent {
+    text-align: left;
+}
+
+.greenSquare {
+    background-color: green;
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+}
+
+.yellowSquare {
+    background-color: yellow;
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+}
+
+.redSquare {
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+}
+
+.legendaLine {
+    padding-top: 5px;
+}
+
+.legndColumnTitle {
+    border-bottom: 1px solid black;
+    width: fit-content;
+    padding: 0 20px 0 20px;
+    margin: 0 0 10px 20px;
+}
+
+.legendaContent ul {
+    margin: 0 0 0 -20px;
+}
+
+.legendaContent li {
+    margin-bottom: 5px;
+}

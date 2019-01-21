@@ -1,0 +1,12 @@
+.wave {
+    width: auto;
+    padding: 20px
+}
+
+.waveTitle {
+    margin-bottom: 10px;
+    background-color: #cceecc;
+}
+.marketContainer {
+    display: inline-flex;
+}

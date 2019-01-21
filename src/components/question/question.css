@@ -1,0 +1,68 @@
+.questionBlock {
+    width: 200px;
+    height: 200px;
+    overflow-y: scroll;
+    border: solid black 2px;
+}
+
+
+.questionBlockGreen {
+    width: 200px;
+    height: 200px;
+    overflow-y: scroll;
+    border: solid green 2px;
+}
+.questionBlockYellow {
+    width: 200px;
+    height: 200px;
+    overflow-y: scroll;
+    border: solid yellow 2px;
+}
+
+.questionBlockRed {
+    width: 200px;
+    height: 200px;
+    overflow-y: scroll;
+    border: solid red 2px;
+}
+
+.questionTitle {
+    width: 200px;
+    height: 20px;
+    overflow: auto;
+    margin-top: 20px;
+    font-size: 12px;
+    white-space: nowrap;
+}
+.questionTitle::-webkit-scrollbar { height: 0 !important }
+
+.questionText {
+    padding: 10px;
+    font-size: 12px;
+}
+
+.questionOptions {
+    font-size: 12px;
+}
+
+.questionOptions li {
+    text-align: left;
+}
+
+.missingQuestion {
+    width: 200px;
+    height: 204px;
+    background: aliceblue;
+    margin-top: 40px;
+}
+
+.optionGreen {
+    color: green
+}
+
+.optionRed {
+    color: red;
+}
+.optionGrey {
+    color: #cccccc;
+}
